@@ -1,0 +1,6 @@
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOut\bin\Debug\SortingItOut.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOut\bin\Debug\SortingItOut.pdb
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOut\obj\Debug\SortingItOut.csprojAssemblyReference.cache
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOut\obj\Debug\SortingItOut.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOut\obj\Debug\SortingItOut.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOut\obj\Debug\SortingItOut.pdb

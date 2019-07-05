@@ -1,0 +1,6 @@
+D:\Emy\Katas\4. Anagrams\AnagramLibrary2\Anagram\Anagram\bin\Debug\Anagram.dll
+D:\Emy\Katas\4. Anagrams\AnagramLibrary2\Anagram\Anagram\bin\Debug\Anagram.pdb
+D:\Emy\Katas\4. Anagrams\AnagramLibrary2\Anagram\Anagram\obj\Debug\Anagram.csprojAssemblyReference.cache
+D:\Emy\Katas\4. Anagrams\AnagramLibrary2\Anagram\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\4. Anagrams\AnagramLibrary2\Anagram\Anagram\obj\Debug\Anagram.dll
+D:\Emy\Katas\4. Anagrams\AnagramLibrary2\Anagram\Anagram\obj\Debug\Anagram.pdb

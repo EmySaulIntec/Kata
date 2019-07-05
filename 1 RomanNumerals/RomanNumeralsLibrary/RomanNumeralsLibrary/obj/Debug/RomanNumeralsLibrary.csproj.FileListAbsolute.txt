@@ -1,0 +1,6 @@
+D:\Emy\Katas\1. Range\RangeLibrary2\RomanNumeralsLibrary\RomanNumeralsLibrary\bin\Debug\RomanNumeralsLibrary.dll
+D:\Emy\Katas\1. Range\RangeLibrary2\RomanNumeralsLibrary\RomanNumeralsLibrary\bin\Debug\RomanNumeralsLibrary.pdb
+D:\Emy\Katas\1. Range\RangeLibrary2\RomanNumeralsLibrary\RomanNumeralsLibrary\obj\Debug\RomanNumeralsLibrary.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\1. Range\RangeLibrary2\RomanNumeralsLibrary\RomanNumeralsLibrary\obj\Debug\RomanNumeralsLibrary.dll
+D:\Emy\Katas\1. Range\RangeLibrary2\RomanNumeralsLibrary\RomanNumeralsLibrary\obj\Debug\RomanNumeralsLibrary.pdb
+D:\Emy\Katas\1. Range\RangeLibrary2\RomanNumeralsLibrary\RomanNumeralsLibrary\obj\Debug\RomanNumeralsLibrary.csprojAssemblyReference.cache

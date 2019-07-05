@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralTest", "RomanNumeralTest\RomanNumeralTest.csproj", "{E529CAE1-7A02-4855-B157-2CDAF68CB2B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralLibrary", "RomanNumeralLibrary\RomanNumeralLibrary.csproj", "{E3FD084F-A6B2-4417-A60C-E2B7EF2463A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E529CAE1-7A02-4855-B157-2CDAF68CB2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E529CAE1-7A02-4855-B157-2CDAF68CB2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E529CAE1-7A02-4855-B157-2CDAF68CB2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E529CAE1-7A02-4855-B157-2CDAF68CB2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FD084F-A6B2-4417-A60C-E2B7EF2463A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FD084F-A6B2-4417-A60C-E2B7EF2463A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FD084F-A6B2-4417-A60C-E2B7EF2463A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FD084F-A6B2-4417-A60C-E2B7EF2463A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1BE023-992B-4C07-A1A9-0502B98A4B5B}
+	EndGlobalSection
+EndGlobal

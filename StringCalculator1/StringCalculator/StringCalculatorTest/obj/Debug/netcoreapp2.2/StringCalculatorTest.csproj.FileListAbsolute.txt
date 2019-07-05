@@ -1,0 +1,17 @@
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculatorTest.deps.json
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculatorTest.runtimeconfig.json
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculatorTest.runtimeconfig.dev.json
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculatorTest.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculatorTest.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculator.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\bin\Debug\netcoreapp2.2\StringCalculator.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.csprojAssemblyReference.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.AssemblyInfoInputs.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.AssemblyInfo.cs
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.csproj.CopyComplete
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator\StringCalculatorTest\obj\Debug\netcoreapp2.2\StringCalculatorTest.pdb

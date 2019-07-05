@@ -1,0 +1,6 @@
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharactersB\bin\Debug\SortingCharactersB.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharactersB\bin\Debug\SortingCharactersB.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharactersB\obj\Debug\SortingCharactersB.csprojAssemblyReference.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharactersB\obj\Debug\SortingCharactersB.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharactersB\obj\Debug\SortingCharactersB.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharactersB\obj\Debug\SortingCharactersB.pdb

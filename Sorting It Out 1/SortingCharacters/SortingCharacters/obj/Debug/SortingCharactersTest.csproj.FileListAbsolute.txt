@@ -1,0 +1,16 @@
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\SortingCharacters.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\SortingCharacters.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\SortingCharactersB.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\SortingCharactersB.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\obj\Debug\SortingCharactersTest.csprojAssemblyReference.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\obj\Debug\SortingCharactersTest.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\obj\Debug\SortingCharactersTest.csproj.CopyComplete
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\obj\Debug\SortingCharacters.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\SortingCharacters\SortingCharacters\obj\Debug\SortingCharacters.pdb

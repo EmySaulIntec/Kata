@@ -1,0 +1,5 @@
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\NumberToWords\NumberToWords\bin\Debug\NumberToWords.dll
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\NumberToWords\NumberToWords\bin\Debug\NumberToWords.pdb
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.dll
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.pdb

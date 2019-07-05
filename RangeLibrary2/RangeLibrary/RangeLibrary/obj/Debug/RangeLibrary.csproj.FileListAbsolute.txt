@@ -1,0 +1,6 @@
+D:\Emy\Katas\1. Range\RangeLibrary2\RangeLibrary\RangeLibrary\bin\Debug\RangeLibrary.dll
+D:\Emy\Katas\1. Range\RangeLibrary2\RangeLibrary\RangeLibrary\bin\Debug\RangeLibrary.pdb
+D:\Emy\Katas\1. Range\RangeLibrary2\RangeLibrary\RangeLibrary\obj\Debug\RangeLibrary.csprojAssemblyReference.cache
+D:\Emy\Katas\1. Range\RangeLibrary2\RangeLibrary\RangeLibrary\obj\Debug\RangeLibrary.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\1. Range\RangeLibrary2\RangeLibrary\RangeLibrary\obj\Debug\RangeLibrary.dll
+D:\Emy\Katas\1. Range\RangeLibrary2\RangeLibrary\RangeLibrary\obj\Debug\RangeLibrary.pdb

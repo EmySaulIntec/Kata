@@ -1,0 +1,6 @@
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculator\bin\Debug\StringCalculator.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojAssemblyReference.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculator\obj\Debug\StringCalculator.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb

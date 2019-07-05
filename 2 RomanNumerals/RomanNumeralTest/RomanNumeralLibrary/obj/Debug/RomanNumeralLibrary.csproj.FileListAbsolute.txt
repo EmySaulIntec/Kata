@@ -1,0 +1,6 @@
+C:\Users\Emy Soto\source\repos\RomanNumeralTest\RomanNumeralLibrary\bin\Debug\RomanNumeralLibrary.dll
+C:\Users\Emy Soto\source\repos\RomanNumeralTest\RomanNumeralLibrary\bin\Debug\RomanNumeralLibrary.pdb
+C:\Users\Emy Soto\source\repos\RomanNumeralTest\RomanNumeralLibrary\obj\Debug\RomanNumeralLibrary.csprojAssemblyReference.cache
+C:\Users\Emy Soto\source\repos\RomanNumeralTest\RomanNumeralLibrary\obj\Debug\RomanNumeralLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emy Soto\source\repos\RomanNumeralTest\RomanNumeralLibrary\obj\Debug\RomanNumeralLibrary.dll
+C:\Users\Emy Soto\source\repos\RomanNumeralTest\RomanNumeralLibrary\obj\Debug\RomanNumeralLibrary.pdb

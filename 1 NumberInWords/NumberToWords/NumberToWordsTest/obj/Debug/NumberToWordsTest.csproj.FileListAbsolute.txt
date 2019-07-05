@@ -1,0 +1,16 @@
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\NumberToWordsTest.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\NumberToWordsTest.pdb
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\NumberToWords.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\NumberToWords.pdb
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\obj\Debug\NumberToWordsTest.csprojAssemblyReference.cache
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\obj\Debug\NumberToWordsTest.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\obj\Debug\NumberToWordsTest.csproj.CopyComplete
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\obj\Debug\NumberToWordsTest.dll
+D:\Emy\Katas\3. NumberInWords\1 NumberInWords\NumberToWords\NumberToWordsTest\obj\Debug\NumberToWordsTest.pdb

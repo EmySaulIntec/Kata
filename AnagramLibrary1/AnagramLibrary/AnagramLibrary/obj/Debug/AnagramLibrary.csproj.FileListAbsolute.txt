@@ -1,0 +1,6 @@
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\AnagramLibrary\AnagramLibrary\bin\Debug\AnagramLibrary.dll
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\AnagramLibrary\AnagramLibrary\bin\Debug\AnagramLibrary.pdb
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\AnagramLibrary\AnagramLibrary\obj\Debug\AnagramLibrary.csprojAssemblyReference.cache
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\AnagramLibrary\AnagramLibrary\obj\Debug\AnagramLibrary.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\AnagramLibrary\AnagramLibrary\obj\Debug\AnagramLibrary.dll
+D:\Emy\Katas\3. NumberInWords\2 NumberInWords\AnagramLibrary\AnagramLibrary\obj\Debug\AnagramLibrary.pdb

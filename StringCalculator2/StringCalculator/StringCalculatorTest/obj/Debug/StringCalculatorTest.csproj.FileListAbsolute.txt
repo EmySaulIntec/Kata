@@ -1,0 +1,16 @@
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\StringCalculator.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\StringCalculator.pdb
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojAssemblyReference.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.csproj.CopyComplete
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+D:\Emy\Katas\5. String Calculator\StringCalculator2\StringCalculator\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb

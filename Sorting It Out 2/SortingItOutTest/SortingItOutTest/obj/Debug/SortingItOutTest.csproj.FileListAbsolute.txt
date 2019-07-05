@@ -1,0 +1,16 @@
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\SortingItOutTest.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\SortingItOutTest.pdb
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\SortingItOut.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\SortingItOut.pdb
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\obj\Debug\SortingItOutTest.csprojAssemblyReference.cache
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\obj\Debug\SortingItOutTest.csproj.CoreCompileInputs.cache
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\obj\Debug\SortingItOutTest.csproj.CopyComplete
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\obj\Debug\SortingItOutTest.dll
+D:\Emy\Katas\6. Sorting It Out\Sorting It Out 2\SortingItOutTest\SortingItOutTest\obj\Debug\SortingItOutTest.pdb
